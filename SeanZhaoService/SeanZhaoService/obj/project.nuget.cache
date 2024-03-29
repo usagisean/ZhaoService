@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "E7/khrO9YJx/Uc2HE70UQWmih79geCuv+KAEEBSenKNeZ3G4VqIiFhc7tgbqouLXOW0R6WHw8mFPFoqaHpmdoA==",
+  "success": true,
+  "projectFilePath": "E:\\A工作目录\\新建文件夹\\1\\ZhaoService\\SeanZhaoService\\SeanZhaoService\\SeanZhaoService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sean.Zhao\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
+    "C:\\Users\\Sean.Zhao\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://192.168.11.49:89/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}
